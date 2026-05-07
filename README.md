@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently in a intership at Serpro<br>👯 I’m looking to collaborate on QT, Typescript and Quarkus projects<br>🤝 I’m looking for help with RAG and Machine Learning<br>🌱 I’m currently learning about Microservices<br>💬 Ask me about LLMs and NLP (i love to talk about the potencial of these tecnologies)<br>⚡ Fun fact: I tried to learn Java when i was 12 
+🔭 I’m currently working at Ayabese<br>👯 I’m looking to collaborate on QT, Typescript and Quarkus projects<br>🤝 I’m looking for help with MCP and Machine Learning<br>🌱 I’m currently learning about AI Agents<br>💬 Ask me about LLMs and NLP (i love to talk about the potencial of these tecnologies)<br>⚡ Fun fact: I tried to learn Java when i was 12 
 
 
 ## 🌐 Socials:
